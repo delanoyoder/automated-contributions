@@ -1,0 +1,1 @@
+{"config_name": "/Users/delano/Projects/automated-contributions/venv/../configs/example.json", "username": "exampleuser", "repository_path": "/path/to/dummy/repository", "daily_commit_limit": "100", "start_date": "2023-05-07", "time_of_day": "17:59", "contributions": [[0, 0]]}

@@ -1,0 +1,5 @@
+/venv
+/access_token.json
+/cron.log
+/.DS_Store
+/.vscode
